@@ -1,0 +1,13 @@
+começamos com o if para criar uma condição, após isso cria 
+elif para criar condições dentro das condição if.
+
+CONVERSÕES
+decimal para binario
+Para realizar a conversão de decimal para binário, realiza-se a divisão sucessiva por 2 (base do sistema binário).
+O resultado da conversão será dado pelo último quociente (MSB) e o agrupamento dos restos de divisão será o número binário.
+
+decimal para octagonal
+Para converter um número decimal em octal realiza-se a divisão sucessiva por 8 (base do sistema octal).
+
+decimal para hexadecimal
+Para converter um número decimal em hexadecimal realiza-se a divisão sucessiva por 16 (base do sistema hexadecimal).
